@@ -5,3 +5,6 @@
 [submodule "ARPALData"]
 	path = ARPALData
 	url = https://github.com/cran/ARPALData
+[submodule "SCDA"]
+	path = SCDA
+	url = https://github.com/cran/SCDA
