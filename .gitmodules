@@ -8,3 +8,6 @@
 [submodule "SCDA"]
 	path = SCDA
 	url = https://github.com/cran/SCDA
+[submodule "Stem"]
+	path = Stem
+	url = https://github.com/paolomaranzano/stem
